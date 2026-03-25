@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d03c7db9-6eea-47f4-a447-3eac7554aa6a" name="Changes" comment="test">
+    <list default="true" id="d03c7db9-6eea-47f4-a447-3eac7554aa6a" name="Changes" comment="Actividad Cifrado AES">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeguridadDeRedesAES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ActividadCifradoAES/SeguridadDeRedesAES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ActividadCifradoAES/SeguridadDeRedesAES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ActividadCifradoAES/SeguridadDeRedesAES.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ActividadCifradoAES/cbc.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/ActividadCifradoAES/imagen_cifrada_companero.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ActividadCifradoAES/mis_claves_34887.json" beforeDir="false" afterPath="$PROJECT_DIR$/ActividadCifradoAES/claves_companero.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +74,28 @@
       <option name="project" value="LOCAL" />
       <updated>1774390463472</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actividad Cifrado AES">
+      <option name="closed" value="true" />
+      <created>1774391337405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774391337405</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Actividad Cifrado AES">
+      <option name="closed" value="true" />
+      <created>1774391363964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774391363964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Actividad Cifrado AES" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad Cifrado AES" />
   </component>
 </project>
